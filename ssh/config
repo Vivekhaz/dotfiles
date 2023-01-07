@@ -1,0 +1,9 @@
+Host vscode 
+  HostName 135.181.63.151
+  User root
+  PreferredAuthentications publickey
+  IdentityFile ~/.ssh/id_rsa
+
+Host babylon3.thayer.dartmouth.edu
+  HostName babylon3.thayer.dartmouth.edu
+  User f003f5n
